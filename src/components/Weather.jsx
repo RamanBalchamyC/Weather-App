@@ -1,4 +1,4 @@
-import './weather.css'
+import './Weather.css'
 import cloud from '../assets/cloud.png'
 import search_icon from '../assets/search.png'
 import clear from '../assets/clear.png'
